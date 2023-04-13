@@ -46,25 +46,6 @@
     - Выбираем Choose task by name or tags
     - Нажимает Create Battle
   expected-result: |
-    Пользователь должен успешно создать игру 
-    
-- summary: |
-    Успешное создание игры
-  requirement: |
-    При успешном выборе критериев, создается игра
-  prerequisites: |
-    Открыта главная страница Codebattle
-  test-data: |
-    Введен логин и пароль пользователя
-  steps:
-    - Открываем главную страницу
-    - Нажимаем кнопку Create game
-    - Выбираем Level
-    - Выбираем Game Type
-    - Выбираем Time Control
-    - Выбираем Choose task by name or tags
-    - Нажимает Create Battle
-  expected-result: |
     Пользователь должен успешно создать игру
     
 - summary: |
