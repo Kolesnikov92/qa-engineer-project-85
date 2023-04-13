@@ -1,0 +1,44 @@
+---
+- summary: |
+    Проверка входа пользователя с существующим логином и паролем
+  status: pass
+  
+- summary: |
+    Успешный вход пользователя на свой профиль
+  status: pass
+  
+- summary: |
+    Успешное создание игры
+  status: pass
+  
+- summary: |
+    Успешный показ игры в Lobby
+  status: pass
+  
+- summary: |
+    Успешный показ игры в Live tournaments
+  status: pass
+  
+- summary: |
+    Успешный показ игры в Complited Games
+  status: pass
+  
+- summary: |
+    Успешный показ Leaderboard week
+  status: pass
+  
+- summary: |
+    Успешный показ Leaderboard month
+  status: pass  
+  
+- summary: |
+    Успешный показ Leaderboard all
+  status: pass  
+  
+- summary: |
+    Проверка входа пользователя с несуществующим логином и паролем
+  status: fail
+  
+- summary: |
+    Проверка входа пользователя с существующим логином и паролем Github
+  status: pass  
